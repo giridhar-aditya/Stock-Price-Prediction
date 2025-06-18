@@ -70,9 +70,10 @@ After careful training and optimization, the model achieved the following result
 
 ## 📉 Visualization
 
-![Prediction Graph](./prediction_plot.png)
+### 📊 Actual vs Predicted Stock Prices
 
-The graph illustrates the close alignment between actual and predicted stock prices, demonstrating the model's reliability.
+<img src="models/prediction.png" alt="Prediction Graph" width="800"/>
+
 
 ---
 
